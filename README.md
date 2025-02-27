@@ -1,4 +1,4 @@
-# 💫 About Me:
+# 💫 Sobre Mi:
 🔭 Actualmente estoy trabajando en un bot de Discord sobre mi juego favorito, integrando almacenamiento en bases de datos y automatización de comandos.<br>🌱 Estoy aprendiendo integración de APIs externas, el desarrollo de una dashboard y optimización de consultas en MongoDB.<br>💬 Me gusta repasar mi código casi siempre, tratando de optimizarlo lo más posible y mejorando la estructura para hacerlo más eficiente.<br>📁 Trato de crear proyectos no tan comunes para salir de los típicos proyectos pequeños, explorando nuevas métodos y enfoques en desarrollo de software.<br>🛠 Tengo experiencia en programación orientada a objetos, desarrollo backend con Node.js, y control de versiones con Git y GitHub.<br>🖼 Me interesa la generación de contenido dinámico, como imágenes personalizadas con Canvas de npm y respuestas automatizadas usando IA.<br>⚡ Dato curioso: Mi primer proyecto grande como tal es un bot inspirado en Genshin Impact, y actualmente quiero expandir sus funciones para hacerlo aún más completo.
 
 
